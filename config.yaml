@@ -1,0 +1,9 @@
+data:
+  root_dir: artifacts/data
+  source_URL: "https://raw.githubusercontent.com/kumar7ashutosh/zenml/refs/heads/main/yield_df.csv"
+  local_data_file: "artifacts/data/data.csv"
+
+data_path: "artifacts/new_df.csv"
+processed_data_path: "artifacts/processed_data.csv"
+model: "model/dtr.pkl"
+processor: "model/processor.pkl"
