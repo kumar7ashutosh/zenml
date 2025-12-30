@@ -3,6 +3,6 @@ gdown==5.2.0
 numpy==2.2.5
 pandas==2.2.3
 scikit-learn==1.6.1
-zenml==0.82.0
-zenml[server]==0.82.0
+zenml==0.93.0
+zenml[server]==0.93.0
 python-box==7.3.2
